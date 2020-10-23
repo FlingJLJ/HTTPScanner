@@ -3,7 +3,6 @@ import threading
 
 wlist = ["js", "admin", "users", "src"]
 url = input("Enter URL to scan: ")
-
 global found
 found = 0
 
