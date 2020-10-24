@@ -7,6 +7,6 @@
 - Modifiable word list inside script.
 ### Dependancies needed
 ```
-python -m pip install requests
+<Windows: python | Unix/Linux: python3> -m pip install requests
 ```
-<textarea>
+###### Unlisted dependancies come preinstalled with Python.
