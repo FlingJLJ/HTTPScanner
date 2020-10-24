@@ -8,6 +8,8 @@ def clear():
 		os.system("clear")
 
 wlist = ["js", "admin", "users", "src"]
+
+clear()
 url = input("Enter URL to scan: ")
 
 clear()
